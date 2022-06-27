@@ -39,7 +39,7 @@
         "lib/submodules/ping.js": "f4f34b431fca6f1dffe8ab2b8e6f5e4e40830653bde88859d8af3ae01b341766",
         "lib/submodules/player.js": "ab9797ebd4f023d293f8c96642af3bfa5953d0224bda95965a6fbd59847a7a08",
         "lib/utils.js": "fcfb1ca1e38ab71b22c3c646138d989f765fe046232e1306f57ba2f35c150f9e",
-        "module.json": "3ae633f11184c485f45fd73e1300a2c2bbf3c5463d449f5fbe9e9d5f7e72bab4",
+        "module.json": "dace9e6281f6a3d0469dcddb147c1e7430ea484950784d38db8e0d4ad79821ba",
         "node_modules/compare-versions/index.js": "76e4fad070f64fbe677f7e11f5e12a0c37c5985c202e419dd8083b9350db804a",
         "node_modules/compare-versions/package.json": "98c291ac276d412ca678f6ca3daedc840abaf166d283b03cba1ebdd9641da02b",
         "node_modules/deepmerge/dist/cjs.js": "02e6ebc990ccba81c4375ae040cf78edcfbfe87fc3b3a0e56ca97b41b861cb72",
