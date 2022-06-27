@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "NGSP (patch 100)"
+    },
+    "servers": ["http://git.dev.hsdn.org/tera-v92/ngsp-v100/raw/master/"],
+    "supportUrl": "DM",
+    "drmKey": "YOUR_DRMKEY_HERE",
+    "name": "ngsp_100",
+    "description": "Description goes here."
+}

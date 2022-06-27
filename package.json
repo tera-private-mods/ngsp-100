@@ -1,0 +1,1 @@
+{"main":"./index.js","dependencies":{"compare-versions":"^3.6.0","deepmerge":"^4.2.2","node-fetch":"^2.6.0","rfdc":"^1.1.4","schema-typed":"^1.5.1"},"engines":{"node":">=12.4.0"},"scripts":{"lint":"npx eslint '**/*.js'"}}
