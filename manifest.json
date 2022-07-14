@@ -23,7 +23,7 @@
         "data/internal/settingsSchema.js": "16ad9997f1dce69d65b6c680c1ae03917debcce3a1e738cdc05c9d027ac690f0",
         "data/internal/strings.json": "8b65eea4291f67c1881c81fa230967050393f8b020415eea1192f1600ba09221",
         "index.js": "399f707852aa6909765519a7f76d62cfbb8e62961db8b91f434a67a44d4cdf47",
-        "lib/core.js": "8d286b8d5d16f147ad2a65ee58fc3b60313650fdd550bde6d3bafc564eed2b66",
+        "lib/core.js": "89606b071845cf49157884f4ed32f34e1c9c494a56d62bccb6a0091094edf3fd",
         "lib/io/NextGenPingTool.exe": "54312374a8962d729702ae5d239b6ff6f8cf9537f11f63a47c1c28b88b0513e4",
         "lib/io/fetch.js": "11b0b013f66e8f589af17a742c3518f70cf9b266acd3ef4c3601d1c739d80da7",
         "lib/io/logger.js": "a2794e6686b1a6cc59e8f9220980ba7ca815a61fbd9e728ff2ff7516d05e5320",
