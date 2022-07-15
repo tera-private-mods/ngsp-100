@@ -180,7 +180,7 @@ module.exports = {
 		"33": true, // Arcane Pulse (Mana Boost)
 		"34": true, // Mana Boost
 		// Awakening
-		// Ice Lance
+					// Ice Lance
 		"36": true, // Fusion
 		"39": true, // Implosion
 	},
@@ -293,7 +293,7 @@ module.exports = {
 		"42": true, // Boomerang Pulse
 		"43": true, // Release
 		// Awakening
-		"44": false, // Mass Teleport
+		"44": true, // Mass Teleport
 		"45": true, // Thrall Augmentation
 		"47": true, // Arunic Release
 		"48": true, // Summon: Thrall Lord
@@ -383,7 +383,7 @@ module.exports = {
 		"4": true, // Jagged Path
 		"5": true, // Impact Bomb
 		"6": true, // One Thousand Cuts
-		"7": false, // Decoy jutsu
+		"7": true, // Decoy jutsu
 		"8": true, // Fire Avalanche
 		"9": true, // Smoke Bomb
 		"10": false, // Retaliate
@@ -395,7 +395,7 @@ module.exports = {
 		"16": true, // Death Blossom
 		"17": true, // Attunement
 		"18": true, // Bladestorm
-		"19": false, // Chakra Thrust
+		"19": true, // Chakra Thrust
 		"20": true, // Clone Jutsu
 		// Awakening
 		"21": true, // Boomerang Shuriken
