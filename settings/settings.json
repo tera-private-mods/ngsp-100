@@ -31,7 +31,7 @@
 	"jitterCompensationMin": 0,
 	"jitterHistoryMax": 20,
 	"language": "auto",
-	"notifications": true,
+	"notifications": false,
 	"pingHelperTimeout": 800,
 	"pingHistoryMax": 30,
 	"pingMethod": "hybrid",
