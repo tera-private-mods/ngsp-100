@@ -4,7 +4,7 @@
         "cliName": "NGSP",
         "guiName": "NGSP (patch 100)"
     },
-    "servers": ["http://git.dev.hsdn.org/tera-v92/ngsp-v100/raw/master/"],
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/ngsp-100/master/"],
     "supportUrl": "DM",
     "drmKey": "YOUR_DRMKEY_HERE",
     "name": "ngsp_100",
