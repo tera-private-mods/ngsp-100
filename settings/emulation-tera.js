@@ -156,7 +156,7 @@ module.exports = {
 		"4": true, // Arcane Pulse
 		"5": true, // Mana Infusion
 		"6": true, // Meteor Strike
-		"7": true, // Backstep
+		"7": false, // Backstep
 		"8": true, // Flame Pillar
 		"10": true, // Mana Barrier
 		"11": true, // Lightning Strike
