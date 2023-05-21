@@ -153,7 +153,7 @@ module.exports = {
 		"1": true, // Fireball
 		"2": true, // Frost Sphere
 		"3": true, // Lightning Trap
-		"4": true, // Arcane Pulse
+		"4": false, // Arcane Pulse
 		"5": true, // Mana Infusion
 		"6": true, // Meteor Strike
 		"7": false, // Backstep
